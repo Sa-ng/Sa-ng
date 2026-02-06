@@ -11,7 +11,7 @@
         <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bots" />
     </a>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bun,p5js,graphql,solidjs" />
+        <img src="https://skillicons.dev/icons?i=bun,solidjs,p5js,graphql" />
     </a>
     <br />
     <a href="https://skillicons.dev">
