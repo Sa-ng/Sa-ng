@@ -1,4 +1,4 @@
-![_.jpeg](/_.jpeg)
+![_.jpeg](/_.png)
 
 <h3 align="center">|   Dev Tools & Tech   |</h3>
 
