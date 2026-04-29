@@ -1,6 +1,6 @@
 ![_](/_.png)
 
-<h3 align="center">|   Dev Tools & Tech   |</h3>
+
 
 <p align="center">
     <a href="https://skillicons.dev">
